@@ -1,0 +1,8 @@
+[Core]
+Name = SSH/SFTP
+Module = ssh
+
+[Documentation]
+Author = Ruben Rocha/Romeu Gomes
+Version = 1.0
+Description = SSH/SFTP bruteforcer

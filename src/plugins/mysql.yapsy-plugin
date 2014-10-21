@@ -1,0 +1,8 @@
+[Core]
+Name = MySQL
+Module = mysql
+
+[Documentation]
+Author = Ruben Rocha/Romeu Gomes
+Version = 1.0
+Description = MySQL Bruteforcer
