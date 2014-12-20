@@ -10,7 +10,7 @@ setup(
         url='',
         license=open(join(dirname(__file__), 'LICENSE.txt')).read(),
         packages=find_packages(),
-        description='Simple command-line password manager',
+        description='Simple single-threaded bruteforcer.',
         long_description=open(join(dirname(__file__), 'README.md')).read(),
         install_requires=[
                 'yapsy',
